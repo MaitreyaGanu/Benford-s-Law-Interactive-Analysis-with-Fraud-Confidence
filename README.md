@@ -29,7 +29,7 @@ Benford’s Law predicts the frequency distribution of the first digits in natur
 
 ## Example
 
-![Benford's Law Analysis Screenshot](screenshot.png)
+![Benford's Law Analysis Screenshot](1.png)
 
 
 
