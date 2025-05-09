@@ -1,4 +1,4 @@
-# Benford’s Law Interactive Analysis Tool
+# Fraud Detection using Benford’s Law : An Interactive Analysis Tool
 
 ## Overview
 
